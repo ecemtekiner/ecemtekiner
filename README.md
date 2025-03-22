@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ecemtekiner
+- 👋 Hi, I’m @ecemtekiner.
 - 👀 I’m interested in Frontend and UI UX Design.
 - 🌱 I’m currently studying Computer Technology and Information Systems at Bilkent University.
-- 💞️ I’m looking to collaborate on Frontend and Backend Programming
+- 💞️ I’m looking to collaborate on Frontend and Backend Programming.
 - 📫 Reach me via mail.
 
 <!---
